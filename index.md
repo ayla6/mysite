@@ -5,8 +5,17 @@ title: ayla
 # hi!!! I'm ayla!!!
 ## and this is ayla's codeberg (or github) page
 
-i'm not really i developer but sometimes i fiddle with stuff so
-that's why i have a codeberg and a github
+#### super cool facts about me!
+  * i'm 18
+  * i'm not in education
+  * i'm not in employement
+  * i'm not in training
+  * i'm brazilian
+  * specifically from sc
+  * specifically from são josé
+  * specifically from redacted
+
+i actually don't know what else to add to this list but like i had a lot of fun seeing what like claude and gemini had to say about the list. like i asked them to add the rest of it and they were just making shit up. a lot of it was accurate tho
 
 this is just place to link all the places i'm in!! a lot of stuff
 here will never ever end up being used. but who cares? it's fun!

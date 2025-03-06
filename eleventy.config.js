@@ -27,6 +27,7 @@ module.exports = function (eleventyConfig) {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
+        collapseInlineTagWhitespace: false,
       });
     }
     return content;
