@@ -1,0 +1,75 @@
+body {
+    background: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    font-family:
+        Roboto Flex,
+        Roboto,
+        system-ui,
+        sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    padding: 8px;
+}
+
+ul p {
+    margin: 0;
+}
+
+.mono {
+    font-family: "JetBrains Mono", monospace;
+    word-wrap: break-word;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+h4,
+ul {
+    margin: 8px;
+}
+
+a,
+.user {
+    text-decoration: none;
+    color: hotpink;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.select-all {
+    user-select: all;
+}
+
+::selection {
+    background: hotpink;
+    color: black;
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background: white;
+        color: black;
+    }
+    ::selection {
+        color: white;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        width: unset;
+    }
+}
