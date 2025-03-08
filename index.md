@@ -7,6 +7,7 @@ title: ayla
 
 #### super cool facts about me!
   * i'm 18
+  * my pronoun is she
   * i'm not in education
   * i'm not in employement
   * i'm not in training
@@ -34,6 +35,9 @@ here will never ever end up being used. but who cares? it's fun!
   * xmpp: <span class="user select-all">aylac@conversations.im</span>
   * matrix: <span class="user select-all">@ayla06:matrix.org</span>
   * discord: <span class="user select-all">ayla.55</span>
+
+#### if for some bizarre reason you want to contact me via email:
+  * mail: [ayla-contact.projector143@passinbox.com](mailto:ayla-contact.projector143@passinbox.com)
 
 #### for encrypted file sharing with [age](https://github.com/FiloSottile/awesome-age):
   * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN ayla@archlinux</span>
