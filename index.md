@@ -45,4 +45,8 @@ here will never ever end up being used. but who cares? it's fun!
 
 #### if you're a fan of throwing money away, you can do that with me!
 
-* ko-fi: [aylac](https://ko-fi.com/aylac)
+  * ko-fi: [aylac](https://ko-fi.com/aylac)
+  * i never used crypto before so it would be really cool if someone sent stuff here!!!!
+  * bitcoin: bc1pky8073752fpnpc80v4anj9txgjkwj4desvpdtj589dy4nxnxc2tskzquq5
+  * monero: 48QotxYsugxhstb4z2BuNziFjwM7LgcWdU5XgJ1wek4cX9ufs6RF19XTgkYPTXpkbhetYLRCewhYrg2r3Zdv924wU95ttr6
+  * ethereum: 0x8B4e95D8D2bd38d35A303CEAc5812bDa6E361A34
