@@ -43,7 +43,7 @@ here will never ever end up being used. but who cares? it's fun!
   * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN ayla@archlinux</span>
   * age: <span class="user mono select-all">age1aylaqtqsdu7h78zhgfl3z04vuksrxkzsvfx8ngyzu9hw4prtmf2sdjf7h6</span>
 
-#### if you're a fan of throwing money away, you can do that with me!
+<h4 id="donate">if you're a fan of throwing money away, you can do that with me!</h4>
 
   * ko-fi: [aylac](https://ko-fi.com/aylac)
   * i never used crypto before so it would be really cool if someone sent stuff here!!!!
