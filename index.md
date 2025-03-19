@@ -3,7 +3,7 @@ layout: main_layout.njk
 title: ayla
 ---
 # hi!!! I'm ayla!!!
-## and this is ayla's codeberg (or github) page
+## and is my website!!
 
 #### super cool facts about me!
   * i'm 18
@@ -22,7 +22,8 @@ this is just place to link all the places i'm in!! a lot of stuff
 here will never ever end up being used. but who cares? it's fun!
 
 #### social media:
-  * bluesky: [aylac.codeberg.page](https://bsky.app/profile/aylac.codeberg.page)
+  * bluesky (awesome self-hosted pds): [aylac.top](https://bsky.app/profile/aylac.top)
+  * bluesky (bsky pds): [aylac.codeberg.page](https://bsky.app/profile/aylac.codeberg.page)
   * mastodon: <a rel="me" href="https://wetdry.world/@ayla">ayla@wetdry.world</a>
   * twitter: [aylaisnice](https://twitter.com/aylaisnice)
 
