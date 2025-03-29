@@ -3,7 +3,7 @@ layout: main_layout.njk
 title: ayla
 ---
 # hi!!! I'm ayla!!!
-## and is my website!!
+## and this is my website!!
 
 #### super cool facts about me!
   * i'm 18
@@ -38,7 +38,12 @@ here will never ever end up being used. but who cares? it's fun!
   * discord: <span class="user select-all">ayla.55</span>
 
 #### if for some bizarre reason you want to contact me via email:
-  * mail: [ayla-contact.projector143@passinbox.com](mailto:ayla-contact.projector143@passinbox.com)
+  * mail: <a class="user select-all" id="skibidi">Y29udGFjdEBheWxhYy50b3A=</a>
+  <script>
+    const skibidi = document.getElementById('skibidi')
+    skibidi.textContent = atob(skibidi.textContent);
+    skibidi.href = 'mailto:' + skibidi.textContent;
+  </script>
 
 #### for encrypted file sharing with [age](https://github.com/FiloSottile/awesome-age):
   * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN ayla@archlinux</span>

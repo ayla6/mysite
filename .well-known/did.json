@@ -1,0 +1,26 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/did/v1",
+		"https://w3id.org/security/multikey/v1",
+		"https://w3id.org/security/suites/secp256k1-2019/v1"
+	],
+	"id": "did:web:aylac.top",
+	"alsoKnownAs": [
+		"at://web.aylac.top"
+	],
+	"verificationMethod": [
+		{
+			"id": "did:web:aylac.top#atproto",
+			"type": "Multikey",
+			"controller": "did:web:aylac.top",
+			"publicKeyMultibase": "zQ3shnC1npUZH4yTv6HJPosmrRawwBQQKvro8CisY2h3rokXQ"
+		}
+	],
+	"service": [
+		{
+			"id": "#atproto_pds",
+			"type": "AtprotoPersonalDataServer",
+			"serviceEndpoint": "https://pds.aylac.top"
+		}
+	]
+}
