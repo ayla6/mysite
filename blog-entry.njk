@@ -1,0 +1,17 @@
+---
+layout: main_layout.njk
+pagination:
+  data: blogEntries
+  size: 1
+  alias: blog
+  addAllPagesToCollections: true
+permalink: "/blog/{{ blog.value.title | slugify }}/index.html"
+eleventyComputed:
+  title: "{{ blog.value.title }} - ayla"
+---
+
+<div class="header">
+<h1>{{ blog.value.title }}</h1>
+<span class="date">{{ blog.value.createdAt | format_date }}</span>
+</div>
+{{ blog.value.content | markdown | safe }}

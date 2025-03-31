@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      '@atcute/client':
+        specifier: ^2.0.9
+        version: 2.0.9
     devDependencies:
       '@11ty/eleventy':
         specifier: ^3.0.0
@@ -14,6 +18,9 @@ importers:
       html-minifier:
         specifier: ^4.0.0
         version: 4.0.0
+      markdown-it:
+        specifier: ^14.1.0
+        version: 14.1.0
       sass:
         specifier: ^1.85.1
         version: 1.85.1
@@ -58,6 +65,9 @@ packages:
 
   '@11ty/recursive-copy@3.0.1':
     resolution: {integrity: sha512-suoSv7CanyKXIwwtLlzP43n3Mm3MTR7UzaLgnG+JP9wAdg4uCIUJiAhhgs/nkwtkvsuqfrGWrUiaG1K9mEoiPg==}
+
+  '@atcute/client@2.0.9':
+    resolution: {integrity: sha512-QNDm9gMP6x9LY77ArwY+urQOBtQW74/onEAz42c40JxRm6Rl9K9cU4ROvNKJ+5cpVmEm1sthEWVRmDr5CSZENA==}
 
   '@isaacs/cliui@8.0.2':
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
@@ -995,6 +1005,8 @@ snapshots:
       promise: 7.3.1
       rimraf: 5.0.10
       slash: 1.0.0
+
+  '@atcute/client@2.0.9': {}
 
   '@isaacs/cliui@8.0.2':
     dependencies:

@@ -1,0 +1,13 @@
+---
+layout: main_layout.njk
+permalink: "/blog/index.html"
+title: "blog - ayla"
+---
+
+{% for entry in blogEntries %}
+  <div class="entry">
+    <a class="entry-title" href="/blog/{{ entry.value.title | slugify }}">{{ entry.value.title }}</a>
+    <span class="entry-excerpt">{{ entry.value.content | truncate }}</span>
+    <span class="entry-date">{{ entry.value.createdAt | format_date }}</span>
+  </div>
+{% endfor %}

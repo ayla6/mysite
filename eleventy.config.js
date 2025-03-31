@@ -1,11 +1,11 @@
-module.exports = function (eleventyConfig) {
-  const htmlmin = require("html-minifier");
-  const sass = require("sass");
-  const path = require("path");
+import htmlmin from "html-minifier";
+import * as sass from "sass";
+import path from "path";
+import markdownit from "markdown-it";
+const md = markdownit();
 
+export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.png");
-  eleventyConfig.addPassthroughCopy("_config.yml");
-  eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy(".well-known/*");
 
   eleventyConfig.addTemplateFormats("scss");
@@ -33,4 +33,16 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
-};
+
+  eleventyConfig.addNunjucksFilter("markdown", function (value) {
+    return md.render(value);
+  });
+
+  eleventyConfig.addNunjucksFilter("format_date", function (value) {
+    return new Date(value).toISOString().slice(0, 16).replace("T", " ");
+  });
+
+  eleventyConfig.addNunjucksFilter("truncate", function (value, length = 300) {
+    return value.slice(0, length);
+  });
+}
