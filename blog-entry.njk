@@ -5,7 +5,7 @@ pagination:
   size: 1
   alias: blog
   addAllPagesToCollections: true
-permalink: "/blog/{{ blog.value.title | slugify }}/index.html"
+permalink: "/blog/{{ blog.uri | getrkey }}/index.html"
 eleventyComputed:
   title: "{{ blog.value.title }} - ayla"
 ---

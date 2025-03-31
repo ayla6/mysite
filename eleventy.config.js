@@ -45,4 +45,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("truncate", function (value, length = 300) {
     return value.slice(0, length);
   });
+
+  eleventyConfig.addNunjucksFilter("getrkey", function (value) {
+    return value.slice(value.lastIndexOf("/") + 1);
+  });
 }
