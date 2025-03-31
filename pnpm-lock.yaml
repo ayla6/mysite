@@ -7,14 +7,13 @@ settings:
 importers:
 
   .:
-    dependencies:
-      '@atcute/client':
-        specifier: ^2.0.9
-        version: 2.0.9
     devDependencies:
       '@11ty/eleventy':
         specifier: ^3.0.0
         version: 3.0.0
+      '@atcute/client':
+        specifier: ^2.0.9
+        version: 2.0.9
       html-minifier:
         specifier: ^4.0.0
         version: 4.0.0
