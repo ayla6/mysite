@@ -57,4 +57,5 @@ here will never ever end up being used. but who cares? it's fun!
   * ethereum: <span class="user mono select-all">0x8B4e95D8D2bd38d35A303CEAc5812bDa6E361A34</span>
   * solana: <span class="user mono select-all">45jKZ3daNvbcYts75nZ39SBrpdZu664etQAk1dybouZM</span>
   * nano: <span class="user mono select-all">nano_35iy3z98nrath7hctuuozhynzitfcjc5w8hbt4qdy1b9njzfjxo55ngndgw5</span>
-  * bitcoin: <span class="user mono select-all">bc1pky8073752fpnpc80v4anj9txgjkwj4desvpdtj589dy4nxnxc2tskzquq5</span>
+  * bitcoin: <span class="user mono select-all">bc1qtlxyuk3qw58pwy6996c34u4lhnkjhcslhc69qm</span>
+  * litecoin: <span class="user mono select-all">ltc1q79mpe0anjp45lvzmflrhzj7rz95tsm3m0jp3g2</span>
