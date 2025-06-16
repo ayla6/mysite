@@ -53,9 +53,9 @@ here will never ever end up being used. but who cares? it's fun!
 
   * ko-fi: [aylac](https://ko-fi.com/aylac)
   * i never used crypto before so it would be really cool if someone sent stuff here!!!!
+  * nano: <span class="user mono select-all">nano_1u38eh6htwqr85q31mdum1gtj8kitb5u7ho4i45jyz5nhh7khm5seiukoo1o</span>
   * monero: <span class="user mono select-all">48QotxYsugxhstb4z2BuNziFjwM7LgcWdU5XgJ1wek4cX9ufs6RF19XTgkYPTXpkbhetYLRCewhYrg2r3Zdv924wU95ttr6</span>
   * ethereum: <span class="user mono select-all">0x8B4e95D8D2bd38d35A303CEAc5812bDa6E361A34</span>
-  * solana: <span class="user mono select-all">45jKZ3daNvbcYts75nZ39SBrpdZu664etQAk1dybouZM</span>
-  * nano: <span class="user mono select-all">nano_1u38eh6htwqr85q31mdum1gtj8kitb5u7ho4i45jyz5nhh7khm5seiukoo1o</span>
   * bitcoin: <span class="user mono select-all">bc1qtlxyuk3qw58pwy6996c34u4lhnkjhcslhc69qm</span>
+  * solana: <span class="user mono select-all">45jKZ3daNvbcYts75nZ39SBrpdZu664etQAk1dybouZM</span>
   * litecoin: <span class="user mono select-all">ltc1q79mpe0anjp45lvzmflrhzj7rz95tsm3m0jp3g2</span>
