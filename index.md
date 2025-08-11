@@ -29,6 +29,7 @@ here will never ever end up being used. but who cares? it's fun!
 
 #### git:
   * codeberg: [aylac](https://codeberg.org/aylac)
+  * tangled: [aylac.top](https://tangled.sh/@aylac.top)
   * github: [ayla6](https://github.com/ayla6)
 
 #### chat apps:
