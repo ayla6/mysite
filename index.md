@@ -47,7 +47,7 @@ here will never ever end up being used. but who cares? it's fun!
   </script>
 
 #### for encrypted file sharing with [age](https://github.com/FiloSottile/awesome-age):
-  * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN ayla@archlinux</span>
+  * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN</span>
   * age: <span class="user mono select-all">age1aylaqtqsdu7h78zhgfl3z04vuksrxkzsvfx8ngyzu9hw4prtmf2sdjf7h6</span>
 
 <h4 id="donate">if you're a fan of throwing money away, you can do that with me!</h4>
