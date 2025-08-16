@@ -28,6 +28,7 @@ here will never ever end up being used. but who cares? it's fun!
   * twitter: [aylaisnice](https://twitter.com/aylaisnice)
 
 #### git:
+  * personal git: [ayla](https://git.aylac.top/ayla)
   * codeberg: [aylac](https://codeberg.org/aylac)
   * tangled: [aylac.top](https://tangled.sh/@aylac.top)
   * github: [ayla6](https://github.com/ayla6)
