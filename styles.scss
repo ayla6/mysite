@@ -1,13 +1,11 @@
+$font: "Roboto Flex", "Roboto", system-ui, sans-serif;
+
 body {
     background: black;
     color: white;
     font-size: 16px;
     font-weight: 400;
-    font-family:
-        Roboto Flex,
-        Roboto,
-        system-ui,
-        sans-serif;
+    font-family: $font;
     margin-left: auto;
     margin-right: auto;
     width: 500px;
@@ -101,6 +99,31 @@ a:hover {
     font-weight: 600;
 }
 
+#ntfy-form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: right;
+    textarea {
+        height: 100px;
+        font-family: $font;
+        resize: none;
+        border-radius: 5px;
+        border: 2px solid hotpink;
+        background-color: black;
+        color: white;
+    }
+    button {
+        background-color: hotpink;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: $font;
+        color: black;
+    }
+}
+
 @media (prefers-color-scheme: light) {
     body {
         background: white;
@@ -111,6 +134,12 @@ a:hover {
     }
     .header {
         border-bottom: 1px dashed rgba(0, 0, 0, 0.25);
+    }
+    #ntfy-form {
+        textarea {
+            background-color: white;
+            color: black;
+        }
     }
 }
 

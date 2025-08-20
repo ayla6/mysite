@@ -18,9 +18,6 @@ title: ayla
 
 i actually don't know what else to add to this list but like i had a lot of fun seeing what like claude and gemini had to say about the list. like i asked them to add the rest of it and they were just making shit up. a lot of it was accurate tho
 
-this is just place to link all the places i'm in!! a lot of stuff
-here will never ever end up being used. but who cares? it's fun!
-
 #### social media:
   * bluesky (awesome self-hosted pds): [aylac.top](https://bsky.app/profile/aylac.top)
   * bluesky (bsky pds): [aylac.codeberg.page](https://bsky.app/profile/aylac.codeberg.page)
@@ -35,7 +32,6 @@ here will never ever end up being used. but who cares? it's fun!
 
 #### chat apps:
   * signal: <span class="user select-all">ayla.55</span>
-  * xmpp: <span class="user select-all">aylac@conversations.im</span>
   * matrix: <span class="user select-all">@ayla06:matrix.org</span>
   * discord: <span class="user select-all">ayla.55</span>
 
@@ -54,10 +50,31 @@ here will never ever end up being used. but who cares? it's fun!
 <h4 id="donate">if you're a fan of throwing money away, you can do that with me!</h4>
 
   * ko-fi: [aylac](https://ko-fi.com/aylac)
-  * i never used crypto before so it would be really cool if someone sent stuff here!!!!
   * monero: <span class="user mono select-all">86a721NVhwhfcwLD15dXTzLTyZsYiUUiVYCNfnVhV4V3A1PG7Ri1Hzadx7iZiPxsCVScFkP96xSQ3KHuMepYJGeSJe72vmT</span>
   * nano: <span class="user mono select-all">nano_35iy3z98nrath7hctuuozhynzitfcjc5w8hbt4qdy1b9njzfjxo55ngndgw5</span>
   * ethereum: <span class="user mono select-all">0x8B4e95D8D2bd38d35A303CEAc5812bDa6E361A34</span>
   * bitcoin: <span class="user mono select-all">bc1qtlxyuk3qw58pwy6996c34u4lhnkjhcslhc69qm</span>
   * solana: <span class="user mono select-all">45jKZ3daNvbcYts75nZ39SBrpdZu664etQAk1dybouZM</span>
   * litecoin: <span class="user mono select-all">ltc1q79mpe0anjp45lvzmflrhzj7rz95tsm3m0jp3g2</span>
+
+<br/>
+<br/>
+<br/>
+
+send me a message
+
+<form id="ntfy-form">
+  <textarea name="message" placeholder="kys (kiss yourself)"></textarea>
+  <button type="submit">Send</button>
+</form>
+<script>
+  document.getElementById('ntfy-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    const messageInput = event.target.elements.message;
+    fetch('https://ntfy.aylac.top/message-to-ayla', {
+      method: 'POST',
+      body: messageInput.value
+    });
+    messageInput.value = '';
+  });
+</script>
