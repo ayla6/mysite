@@ -43,9 +43,9 @@ i actually don't know what else to add to this list but like i had a lot of fun 
     skibidi.href = 'mailto:' + skibidi.textContent;
   </script>
 
-#### for encrypted file sharing with [age](https://github.com/FiloSottile/awesome-age):
+#### some keys!!:
   * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN</span>
-  * age: <span class="user mono select-all">age1aylaqtqsdu7h78zhgfl3z04vuksrxkzsvfx8ngyzu9hw4prtmf2sdjf7h6</span>
+  * pgp: <a class="user mono" href="/key.txt">here</a>
 
 <h4 id="donate">if you're a fan of throwing money away, you can do that with me!</h4>
 
