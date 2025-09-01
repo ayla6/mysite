@@ -45,7 +45,7 @@ i actually don't know what else to add to this list but like i had a lot of fun 
 
 #### some keys!!:
   * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN</span>
-  * pgp: <a class="user mono" href="/key.txt">here</a>
+  * pgp: <a class="user mono" href="/aataylactop.asc">here</a>
 
 <h4 id="donate">if you're a fan of throwing money away, you can do that with me!</h4>
 

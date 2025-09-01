@@ -7,7 +7,7 @@ const md = markdownit();
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.png");
   eleventyConfig.addPassthroughCopy(".well-known/*");
-  eleventyConfig.addPassthroughCopy("key.txt");
+  eleventyConfig.addPassthroughCopy("aataylactop.asc");
 
   eleventyConfig.addTemplateFormats("scss");
   eleventyConfig.addExtension("scss", {
