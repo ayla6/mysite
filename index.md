@@ -46,7 +46,7 @@ i actually don't know what else to add to this list but like i had a lot of fun 
 #### some keys!!:
   * ssh: <span class="user mono select-all">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRhN5RncjPlzdo43/DXIcnsgvX0C9xA14r4DPJ2mRbN</span>
   * pgp: <a class="user mono" href="/aataylactop.asc">1348 5FA0 ECD1 7577 DCC0 AE43 04B9 1E41 6B9F EC0B</a>
-  * age: <span class="user mono select-all>age1aylaqtqsdu7h78zhgfl3z04vuksrxkzsvfx8ngyzu9hw4prtmf2sdjf7h6</span>
+  * age: <span class="user mono select-all">age1aylaqtqsdu7h78zhgfl3z04vuksrxkzsvfx8ngyzu9hw4prtmf2sdjf7h6</span>
 
 <h4 id="donate">if you're a fan of throwing money away, you can do that with me!</h4>
 
