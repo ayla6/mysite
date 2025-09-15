@@ -52,11 +52,11 @@ i actually don't know what else to add to this list but like i had a lot of fun 
 
   * ko-fi: [aylac](https://ko-fi.com/aylac)
   * monero: <span class="user mono select-all">86a721NVhwhfcwLD15dXTzLTyZsYiUUiVYCNfnVhV4V3A1PG7Ri1Hzadx7iZiPxsCVScFkP96xSQ3KHuMepYJGeSJe72vmT</span>
-  * nano: <span class="user mono select-all">nano_35iy3z98nrath7hctuuozhynzitfcjc5w8hbt4qdy1b9njzfjxo55ngndgw5</span>
+  * nano: <span class="user mono select-all">nano_1ay1anrpmgpbyg6c5g9hjp5untd3onzuf4j3qyuydum57hurna6kehg654bg</span>
   * ethereum: <span class="user mono select-all">0x8B4e95D8D2bd38d35A303CEAc5812bDa6E361A34</span>
   * bitcoin: <span class="user mono select-all">bc1qtlxyuk3qw58pwy6996c34u4lhnkjhcslhc69qm</span>
-  * solana: <span class="user mono select-all">45jKZ3daNvbcYts75nZ39SBrpdZu664etQAk1dybouZM</span>
   * litecoin: <span class="user mono select-all">ltc1q79mpe0anjp45lvzmflrhzj7rz95tsm3m0jp3g2</span>
+  * solana: <span class="user mono select-all">45jKZ3daNvbcYts75nZ39SBrpdZu664etQAk1dybouZM</span>
 
 <br/>
 <br/>
