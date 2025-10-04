@@ -26,14 +26,13 @@ i actually don't know what else to add to this list but like i had a lot of fun 
 
 #### git:
   * personal git: [ayla](https://git.aylac.top/ayla)
-  * codeberg: [aylac](https://codeberg.org/aylac)
-  * tangled: [aylac.top](https://tangled.sh/@aylac.top)
   * github: [ayla6](https://github.com/ayla6)
+  * tangled: [aylac.top](https://tangled.sh/@aylac.top)
+  * codeberg: [aylac](https://codeberg.org/aylac)
 
 #### chat apps:
   * signal: <span class="user select-all">ayla.55</span>
   * matrix: <span class="user select-all">@ayla06:matrix.org</span>
-  * discord: <span class="user select-all">ayla.55</span>
 
 #### if for some bizarre reason you want to contact me via email:
   * mail: <a class="user select-all" id="skibidi">Y29udGFjdEBheWxhYy50b3A=</a>
