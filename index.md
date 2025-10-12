@@ -19,16 +19,16 @@ title: ayla
 i actually don't know what else to add to this list but like i had a lot of fun seeing what like claude and gemini had to say about the list. like i asked them to add the rest of it and they were just making shit up. a lot of it was accurate tho
 
 #### social media:
-  * bluesky (awesome self-hosted pds): [aylac.top](https://bsky.app/profile/aylac.top)
+  * bluesky (awesome self-hosted pds): <a rel="me" href="https://bsky.app/profile/aylac.top">aylac.top</a>
   * bluesky (bsky pds): [aylac.codeberg.page](https://bsky.app/profile/aylac.codeberg.page)
   * mastodon: <a rel="me" href="https://wetdry.world/@ayla">ayla@wetdry.world</a>
-  * twitter: [aylaisnice](https://twitter.com/aylaisnice)
+  * twitter: <a rel="me" href="https://twitter.com/aylaisnice">aylaisnice</a>
 
 #### git:
-  * personal git: [ayla](https://git.aylac.top/ayla)
-  * github: [ayla6](https://github.com/ayla6)
+  * personal git: <a rel="me" href="https://git.aylac.top/ayla">ayla</a>
+  * github: <a rel="me" href="https://github.com/ayla6">ayla6</a>
   * tangled: [aylac.top](https://tangled.sh/@aylac.top)
-  * codeberg: [aylac](https://codeberg.org/aylac)
+  * codeberg: <a rel="me" href="https://codeberg.org/aylac">aylac</a>
 
 #### chat apps:
   * signal: <span class="user select-all">ayla.55</span>
