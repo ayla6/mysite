@@ -7,7 +7,6 @@ title: ayla
 
 #### super cool facts about me!
   * i'm 19
-  * my pronoun is she
   * i'm not in education
   * i'm not in employement
   * i'm not in training
@@ -19,10 +18,9 @@ title: ayla
 i actually don't know what else to add to this list but like i had a lot of fun seeing what like claude and gemini had to say about the list. like i asked them to add the rest of it and they were just making shit up. a lot of it was accurate tho
 
 #### social media:
-  * bluesky (awesome self-hosted pds): <a rel="me" href="https://bsky.app/profile/aylac.top">aylac.top</a>
-  * bluesky (bsky pds): [aylac.codeberg.page](https://bsky.app/profile/aylac.codeberg.page)
-  * mastodon: <a rel="me" href="https://wetdry.world/@ayla">ayla@wetdry.world</a>
-  * twitter: <a rel="me" href="https://twitter.com/aylaisnice">aylaisnice</a>
+  * bluesky: <a rel="me" href="https://bsky.app/profile/aylac.top">aylac.top</a>
+  * mastodon (I don't use it!): <a rel="me" href="https://wetdry.world/@ayla">ayla@wetdry.world</a>
+  * find the rest yourself bbg
 
 #### git:
   * personal git: <a rel="me" href="https://git.aylac.top/ayla">ayla</a>
@@ -64,7 +62,7 @@ i actually don't know what else to add to this list but like i had a lot of fun 
 send me a message
 
 <form id="ntfy-form">
-  <textarea name="message" placeholder="kys (kiss yourself)"></textarea>
+  <textarea name="message" placeholder="hi im a faceless man and i would love for you to enter in contact with me"></textarea>
   <button type="submit">Send</button>
 </form>
 <script>
